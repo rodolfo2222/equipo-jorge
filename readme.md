@@ -1,3 +1,3 @@
 ## Repositorio en entorno distribuido
 
-ADMIN - Jorge Humberto Gamez Lopez
+ADMIN - Jorge Humberto Gamez Lopez.
